@@ -1,7 +1,6 @@
 # 🎓 Campus Connect Portal
 
 > **RV University**  
-> *Repository:* [MedhaSrinath/Campus-connect](https://github.com/MedhaSrinath/Campus-connect)
 
 ---
 
